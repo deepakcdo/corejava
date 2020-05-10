@@ -1,4 +1,5 @@
-package bytecodeAnnotations;
+package v2ch08.bytecodeAnnotations;
+
 
 import java.io.*;
 import java.nio.file.*;

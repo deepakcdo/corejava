@@ -1,4 +1,5 @@
-package choices;
+package v1ch10fx.choices;
+
 
 import javafx.application.*;
 import javafx.event.*;

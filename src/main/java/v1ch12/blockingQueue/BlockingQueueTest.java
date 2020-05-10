@@ -1,4 +1,5 @@
-package blockingQueue;
+package v1ch12.blockingQueue;
+
 
 import java.io.*;
 import java.nio.charset.*;

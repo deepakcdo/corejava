@@ -1,4 +1,5 @@
-package table;
+package v2ch10.table;
+
 
 import java.awt.*;
 import java.awt.print.*;

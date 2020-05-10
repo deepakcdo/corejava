@@ -1,4 +1,5 @@
-package timer;
+package v1ch06.timer;
+
 
 /**
    @version 1.02 2017-12-14

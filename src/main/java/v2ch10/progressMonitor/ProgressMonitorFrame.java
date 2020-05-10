@@ -1,4 +1,5 @@
-package progressMonitor;
+package v2ch10.progressMonitor;
+
 
 import java.awt.*;
 

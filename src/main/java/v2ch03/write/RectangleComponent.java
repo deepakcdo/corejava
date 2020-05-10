@@ -1,4 +1,5 @@
-package write;
+package v2ch03.write;
+
 
 import java.awt.*;
 import java.awt.geom.*;

@@ -1,4 +1,5 @@
-package randomAccess;
+package v2ch02.randomAccess;
+
 
 import java.io.*;
 import java.time.*;

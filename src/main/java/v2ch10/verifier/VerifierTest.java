@@ -1,4 +1,5 @@
-package verifier;
+package v2ch10.verifier;
+
 
 import java.awt.*;
 

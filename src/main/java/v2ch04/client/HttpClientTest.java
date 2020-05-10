@@ -1,4 +1,5 @@
-package client;
+package v2ch04.client;
+
 
 import java.io.*;
 import java.math.*;

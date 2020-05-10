@@ -1,4 +1,5 @@
-package completableFutures;
+package v1ch12.completableFutures;
+
 
 import java.awt.image.*;
 import java.io.*;

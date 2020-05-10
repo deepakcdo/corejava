@@ -1,4 +1,5 @@
-package tableRowColumn;
+package v2ch10.tableRowColumn;
+
 
 import java.awt.*;
 import java.util.*;

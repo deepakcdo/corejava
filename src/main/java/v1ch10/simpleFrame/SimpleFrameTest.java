@@ -1,4 +1,5 @@
-package simpleFrame;
+package v1ch10.simpleFrame;
+
 
 import java.awt.*;
 import javax.swing.*;

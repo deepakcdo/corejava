@@ -1,4 +1,5 @@
-package auth;
+package v2ch10.auth;
+
 
 import javax.security.auth.*;
 import javax.security.auth.login.*;

@@ -1,4 +1,5 @@
-package composite;
+package v2ch11.composite;
+
 
 import java.awt.*;
 import javax.swing.*;

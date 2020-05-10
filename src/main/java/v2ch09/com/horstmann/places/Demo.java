@@ -1,4 +1,5 @@
-package com.horstmann.places;
+package v2ch09.com.horstmann.places;
+
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

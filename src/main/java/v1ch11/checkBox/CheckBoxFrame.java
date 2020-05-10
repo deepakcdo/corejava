@@ -1,4 +1,5 @@
-package checkBox;
+package v1ch11.checkBox;
+
 
 import java.awt.*;
 import java.awt.event.*;

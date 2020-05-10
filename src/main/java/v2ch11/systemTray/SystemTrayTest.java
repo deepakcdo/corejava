@@ -1,4 +1,5 @@
-package systemTray;
+package v2ch11.systemTray;
+
 
 import java.awt.*;
 import java.io.*;

@@ -1,4 +1,5 @@
-package tableSelection;
+package v2ch10.tableSelection;
+
 
 /**
  @version 1.05 2018-05-01

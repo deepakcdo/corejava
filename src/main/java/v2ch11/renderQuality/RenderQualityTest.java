@@ -1,4 +1,5 @@
-package renderQuality;
+package v2ch11.renderQuality;
+
 
 import java.awt.*;
 import javax.swing.*;

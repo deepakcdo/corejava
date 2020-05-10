@@ -1,4 +1,5 @@
-package arrays;
+package v1ch05.arrays;
+
 
 import java.lang.reflect.*;
 import java.util.*;

@@ -1,4 +1,5 @@
-package match;
+package v2ch02.match;
+
 
 import java.io.*;
 import java.net.*;

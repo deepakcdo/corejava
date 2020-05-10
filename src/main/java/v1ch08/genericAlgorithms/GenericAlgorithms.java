@@ -1,4 +1,5 @@
-package genericAlgorithms;
+package v1ch08.genericAlgorithms;
+
 
 import java.lang.reflect.*;
 import java.util.*;

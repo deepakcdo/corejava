@@ -1,4 +1,5 @@
-package pair2;
+package v1ch08.pair2;
+
 
 import java.time.*;
 

@@ -1,4 +1,5 @@
-package synch2;
+package v1ch12.synch2;
+
 
 /**
  * This program shows how multiple threads can safely access a data structure,

@@ -1,4 +1,5 @@
-package tabbedPane;
+package v2ch10.tabbedPane;
+
 
 import java.awt.*;
 import javax.swing.*;

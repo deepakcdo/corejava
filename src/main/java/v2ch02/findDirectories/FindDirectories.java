@@ -1,4 +1,5 @@
-package findDirectories;
+package v2ch02.findDirectories;
+
 
 import java.io.*;
 import java.nio.file.*;

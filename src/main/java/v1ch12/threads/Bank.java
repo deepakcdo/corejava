@@ -1,4 +1,5 @@
-package threads;
+package v1ch12.threads;
+
 
 import java.util.*;
 

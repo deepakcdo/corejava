@@ -1,4 +1,5 @@
-package com.horstmann.places;
+package v2ch09.ch15.sec06.com.horstmann.places;
+
 
 import com.google.gson.*;
    

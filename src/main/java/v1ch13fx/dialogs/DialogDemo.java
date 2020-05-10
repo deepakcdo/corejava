@@ -1,4 +1,5 @@
-package dialogs;
+package v1ch13fx.dialogs;
+
 
 import java.io.*;
 

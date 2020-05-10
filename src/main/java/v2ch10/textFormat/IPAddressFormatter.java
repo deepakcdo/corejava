@@ -1,4 +1,5 @@
-package textFormat;
+package v2ch10.textFormat;
+
 
 import java.text.*;
 import java.util.*;

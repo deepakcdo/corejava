@@ -1,4 +1,5 @@
-package clone;
+package v1ch06.clone;
+
 
 import java.util.Date;
 import java.util.GregorianCalendar;

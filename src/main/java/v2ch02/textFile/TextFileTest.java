@@ -1,4 +1,5 @@
-package textFile;
+package v2ch02.textFile;
+
 
 import java.io.*;
 import java.nio.charset.*;

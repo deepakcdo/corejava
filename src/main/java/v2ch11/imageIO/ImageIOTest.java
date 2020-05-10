@@ -1,4 +1,5 @@
-package imageIO;
+package v2ch11.imageIO;
+
 
 import java.awt.*;
 import javax.swing.*;

@@ -1,4 +1,5 @@
-package test;
+package v2ch05.test;
+
 
 import java.nio.file.*;
 import java.sql.*;

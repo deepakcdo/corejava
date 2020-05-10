@@ -1,4 +1,5 @@
-package bytecodeAnnotations;
+package v2ch08.bytecodeAnnotations;
+
 
 import java.lang.annotation.*;
 

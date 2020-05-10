@@ -1,4 +1,5 @@
-package progressMonitorInputStream;
+package v2ch10.progressMonitorInputStream;
+
 
 import java.awt.*;
 import javax.swing.*;

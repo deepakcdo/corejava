@@ -1,4 +1,5 @@
-package dom;
+package v2ch03.dom;
+
 
 import java.io.*;
 import java.util.*;

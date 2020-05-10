@@ -1,4 +1,5 @@
-package loggingfx;
+package v1ch07.loggingfx;
+
 
 import java.io.*;
 import java.nio.file.*;

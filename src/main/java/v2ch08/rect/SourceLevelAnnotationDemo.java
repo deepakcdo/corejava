@@ -1,4 +1,5 @@
-package rect;
+package v2ch08.rect;
+
 
 import sourceAnnotations.ToStrings;
 

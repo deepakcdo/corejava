@@ -1,4 +1,5 @@
-package renderQuality;
+package v2ch11.renderQuality;
+
 
 /*
 GBC - A convenience class to tame the GridBagLayout

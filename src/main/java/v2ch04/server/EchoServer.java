@@ -1,4 +1,5 @@
-package server;
+package v2ch04.server;
+
 
 import java.io.*;
 import java.net.*;

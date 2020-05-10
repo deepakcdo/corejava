@@ -1,4 +1,5 @@
-package randomAccess2;
+package v2ch02.randomAccess2;
+
 
 import java.io.*;
 import java.nio.*;

@@ -1,4 +1,5 @@
-package progressMonitorInputStream;
+package v2ch10.progressMonitorInputStream;
+
 
 import java.io.*;
 import java.nio.charset.*;

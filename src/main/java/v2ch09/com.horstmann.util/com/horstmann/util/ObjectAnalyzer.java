@@ -1,4 +1,5 @@
-package com.horstmann.util;
+package v2ch09.com.horstmann.util.com.horstmann.util;
+
 
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;

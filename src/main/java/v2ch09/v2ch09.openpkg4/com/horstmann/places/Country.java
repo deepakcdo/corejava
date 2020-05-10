@@ -1,4 +1,5 @@
-package com.horstmann.places;
+package v2ch09.v2ch09.openpkg4.com.horstmann.places;
+
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

@@ -1,4 +1,5 @@
-package binding;
+package v1ch13fx.binding;
+
 
 import javafx.application.*;
 import javafx.scene.*;

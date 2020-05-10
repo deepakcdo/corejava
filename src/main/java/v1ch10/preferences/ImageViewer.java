@@ -1,4 +1,5 @@
-package preferences;
+package v1ch10.preferences;
+
 
 import java.awt.EventQueue;
 import java.awt.event.*;

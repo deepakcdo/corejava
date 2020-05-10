@@ -1,4 +1,5 @@
-package buttons2;
+package v2ch08.buttons2;
+
 import javax.swing.*;
 
 /**

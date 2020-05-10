@@ -1,4 +1,5 @@
-package collation;
+package v2ch07.collation;
+
 
 import java.awt.*;
 import java.awt.event.*;

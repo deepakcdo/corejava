@@ -1,4 +1,5 @@
-package compiler;
+package v2ch08.compiler;
+
 
 public class ByteArrayClassLoader extends ClassLoader 
 {

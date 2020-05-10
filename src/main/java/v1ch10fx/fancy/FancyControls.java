@@ -1,4 +1,5 @@
-package fancy;
+package v1ch10fx.fancy;
+
 
 import java.nio.file.*;
 import javafx.application.*;

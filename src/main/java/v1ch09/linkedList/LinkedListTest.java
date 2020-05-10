@@ -1,4 +1,5 @@
-package linkedList;
+package v1ch09.linkedList;
+
 
 import java.util.*;
 

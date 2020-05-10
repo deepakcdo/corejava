@@ -1,4 +1,5 @@
-package font;
+package v1ch10fx.font;
+
 
 import javafx.application.*;
 import javafx.geometry.*;

@@ -1,4 +1,5 @@
-package binding;
+package v1ch13fx.binding;
+
 
 import static javafx.beans.binding.Bindings.*;
 

@@ -1,4 +1,5 @@
-package pair1;
+package v1ch08.pair1;
+
 
 /**
  * @version 1.00 2004-05-10

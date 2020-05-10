@@ -1,4 +1,5 @@
-package serialClone;
+package v2ch02.serialClone;
+
 
 /**
  * @version 1.22 2018-05-01

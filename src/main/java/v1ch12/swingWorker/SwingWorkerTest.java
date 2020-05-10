@@ -1,4 +1,5 @@
-package swingWorker;
+package v1ch12.swingWorker;
+
 
 import java.awt.*;
 import java.io.*;

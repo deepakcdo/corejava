@@ -1,4 +1,5 @@
-package map;
+package v1ch09.map;
+
 
 /**
  * A minimalist employee class for testing purposes.

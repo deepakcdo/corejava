@@ -1,4 +1,5 @@
-package parallel;
+package v2ch01.parallel;
+
 
 import static java.util.stream.Collectors.*;
 

@@ -1,4 +1,5 @@
-package query;
+package v2ch05.query;
+
 
 import java.io.*;
 import java.nio.file.*;

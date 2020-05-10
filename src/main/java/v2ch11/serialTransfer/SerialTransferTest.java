@@ -1,4 +1,5 @@
-package serialTransfer;
+package v2ch11.serialTransfer;
+
 
 import java.awt.*;
 import javax.swing.*;

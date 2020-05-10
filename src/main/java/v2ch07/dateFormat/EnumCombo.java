@@ -1,4 +1,5 @@
-package dateFormat;
+package v2ch07.dateFormat;
+
 
 import java.util.*;
 import javax.swing.*;

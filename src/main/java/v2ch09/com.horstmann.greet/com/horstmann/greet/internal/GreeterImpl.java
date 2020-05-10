@@ -1,4 +1,5 @@
-package com.horstmann.greet.internal;
+package v2ch09.com.horstmann.greet.com.horstmann.greet.internal;
+
 
 import com.horstmann.greet.Greeter;
 

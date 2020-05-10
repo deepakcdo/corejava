@@ -1,4 +1,5 @@
-package layer;
+package v2ch10.layer;
+
 
 import java.awt.*;
 import java.awt.event.*;

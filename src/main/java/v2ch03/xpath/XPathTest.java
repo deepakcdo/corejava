@@ -1,4 +1,5 @@
-package xpath;
+package v2ch03.xpath;
+
 
 import java.io.*;
 import java.nio.file.*;

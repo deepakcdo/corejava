@@ -1,4 +1,5 @@
-package menu;
+package v1ch10fx.menu;
+
 
 import javafx.application.*;
 import javafx.event.*;

@@ -1,4 +1,5 @@
-package com.horstmann.hello;
+package v2ch09.v2ch09.useservice.com.horstmann.hello;
+
 
 import java.util.*;
 import com.horstmann.greetsvc.*;

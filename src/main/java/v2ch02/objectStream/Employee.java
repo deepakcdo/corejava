@@ -1,4 +1,5 @@
-package objectStream;
+package v2ch02.objectStream;
+
 
 import java.io.*;
 import java.time.*;

@@ -1,4 +1,5 @@
-package rsa;
+package v2ch10.rsa;
+
 
 import java.io.*;
 import java.security.*;

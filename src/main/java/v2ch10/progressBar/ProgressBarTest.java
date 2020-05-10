@@ -1,4 +1,5 @@
-package progressBar;
+package v2ch10.progressBar;
+
 
 import java.awt.*;
 import javax.swing.*;

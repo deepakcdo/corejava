@@ -1,4 +1,5 @@
-package collecting;
+package v2ch01.collecting;
+
 
 import java.io.*;
 import java.nio.file.*;

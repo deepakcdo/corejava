@@ -1,4 +1,5 @@
-package print;
+package v2ch11.print;
+
 
 import java.awt.*;
 import java.awt.print.*;

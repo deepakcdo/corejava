@@ -1,4 +1,5 @@
-package jaas;
+package v2ch09.jaas;
+
 
 import java.security.*;
 import java.util.*;

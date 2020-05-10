@@ -1,4 +1,5 @@
-package lambda;
+package v1ch06.lambda;
+
 
 import java.util.*;
 

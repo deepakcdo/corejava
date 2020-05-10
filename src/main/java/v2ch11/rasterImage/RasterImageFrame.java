@@ -1,4 +1,5 @@
-package rasterImage;
+package v2ch11.rasterImage;
+
 
 import java.awt.*;
 import java.awt.image.*;

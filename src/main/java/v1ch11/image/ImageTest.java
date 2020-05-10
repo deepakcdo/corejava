@@ -1,4 +1,5 @@
-package image;
+package v1ch11.image;
+
 
 import java.awt.*;
 import javax.swing.*;

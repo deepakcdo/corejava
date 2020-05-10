@@ -1,4 +1,5 @@
-package dndImage;
+package v2ch11.dndImage;
+
 
 import java.awt.*;
 import java.awt.datatransfer.*;

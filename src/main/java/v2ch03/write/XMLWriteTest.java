@@ -1,4 +1,5 @@
-package write;
+package v2ch03.write;
+
 
 import java.io.*;
 import java.nio.file.*;

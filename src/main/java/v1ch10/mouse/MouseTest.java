@@ -1,4 +1,5 @@
-package mouse;
+package v1ch10.mouse;
+
 
 import java.awt.*;
 import javax.swing.*;

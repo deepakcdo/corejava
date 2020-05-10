@@ -1,4 +1,5 @@
-package proxy;
+package v1ch06.proxy;
+
 
 import java.lang.reflect.*;
 import java.util.*;

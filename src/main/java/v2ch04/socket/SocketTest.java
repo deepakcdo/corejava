@@ -1,4 +1,5 @@
-package socket;
+package v2ch04.socket;
+
 
 import java.io.*;
 import java.net.*;

@@ -1,4 +1,5 @@
-package hash;
+package v2ch10.hash;
+
 
 import java.io.*;
 import java.nio.file.*;

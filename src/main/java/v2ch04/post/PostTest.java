@@ -1,4 +1,5 @@
-package post;
+package v2ch04.post;
+
 
 import java.io.*;
 import java.net.*;

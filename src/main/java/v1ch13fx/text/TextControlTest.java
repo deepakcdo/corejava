@@ -1,4 +1,5 @@
-package text;
+package v1ch13fx.text;
+
 
 import javafx.application.*;
 import javafx.geometry.*;

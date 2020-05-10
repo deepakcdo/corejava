@@ -1,4 +1,5 @@
-package compiler;
+package v2ch08.compiler;
+
 
 import java.awt.*;
 import java.io.*;

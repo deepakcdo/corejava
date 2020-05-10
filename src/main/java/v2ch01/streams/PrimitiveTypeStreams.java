@@ -1,4 +1,5 @@
-package streams;
+package v2ch01.streams;
+
 
 import java.io.*;
 import java.nio.file.*;

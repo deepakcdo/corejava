@@ -1,4 +1,5 @@
-package tableSelection;
+package v2ch10.tableSelection;
+
 
 import java.util.*;
 

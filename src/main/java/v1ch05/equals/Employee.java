@@ -1,4 +1,5 @@
-package equals;
+package v1ch05.equals;
+
 
 import java.time.*;
 import java.util.Objects;

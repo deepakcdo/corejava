@@ -1,4 +1,5 @@
-package threads;
+package v1ch12.threads;
+
 
 /**
  * @version 1.30 2004-08-01

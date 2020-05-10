@@ -1,4 +1,5 @@
-package regex;
+package v2ch02.regex;
+
 
 /**
  * This program tests regular expression matching. Enter a pattern and strings to match, 

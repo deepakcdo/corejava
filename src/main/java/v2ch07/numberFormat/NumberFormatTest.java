@@ -1,4 +1,5 @@
-package numberFormat;
+package v2ch07.numberFormat;
+
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,5 @@
-package radioButton;
+package v1ch11.radioButton;
+
 
 import java.awt.*;
 import javax.swing.*;

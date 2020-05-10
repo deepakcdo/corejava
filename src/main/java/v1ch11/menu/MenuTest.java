@@ -1,4 +1,5 @@
-package menu;
+package v1ch11.menu;
+
 
 import java.awt.*;
 import javax.swing.*;

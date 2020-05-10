@@ -1,4 +1,5 @@
-package com.horstmann.hello;
+package v2ch09.v2ch09.hellomod.com.horstmann.hello;
+
 
 public class HelloWorld
 {

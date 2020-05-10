@@ -1,4 +1,5 @@
-package button;
+package v1ch10.button;
+
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,5 @@
-package text;
+package v1ch11.text;
+
 
 import java.awt.*;
 import javax.swing.*;

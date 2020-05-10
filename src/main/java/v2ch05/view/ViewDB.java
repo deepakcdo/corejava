@@ -1,4 +1,5 @@
-package view;
+package v2ch05.view;
+
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,5 @@
-package interruptible;
+package v2ch04.interruptible;
+
 
 import java.awt.*;
 import java.awt.event.*;

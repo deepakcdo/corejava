@@ -1,4 +1,5 @@
-package localInnerClass;
+package v1ch06.localInnerClass;
+
 
 import java.awt.*;
 import java.awt.event.*;

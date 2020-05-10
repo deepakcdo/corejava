@@ -1,4 +1,5 @@
-package objectAnalyzer;
+package v1ch05.objectAnalyzer;
+
 
 import java.util.*;
 

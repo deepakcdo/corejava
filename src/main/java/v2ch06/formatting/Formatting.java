@@ -1,4 +1,5 @@
-package formatting;
+package v2ch06.formatting;
+
 
 /**
  * @version 1.0 2016-05-10

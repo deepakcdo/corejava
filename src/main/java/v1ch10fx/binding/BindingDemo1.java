@@ -1,4 +1,5 @@
-package binding;
+package v1ch10fx.binding;
+
 
 import javafx.application.*;
 import javafx.scene.*;

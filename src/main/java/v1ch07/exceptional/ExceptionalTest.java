@@ -1,4 +1,5 @@
-package exceptional;
+package v1ch07.exceptional;
+
 
 import java.util.*;
 

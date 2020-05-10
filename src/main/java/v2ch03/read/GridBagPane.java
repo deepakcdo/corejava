@@ -1,4 +1,5 @@
-package read;
+package v2ch03.read;
+
 
 import java.awt.*;
 import java.beans.*;

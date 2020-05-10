@@ -1,4 +1,5 @@
-package dialog;
+package v1ch11.dialog;
+
 
 import java.awt.*;
 import javax.swing.*;

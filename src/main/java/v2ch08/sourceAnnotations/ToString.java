@@ -1,4 +1,5 @@
-package sourceAnnotations;
+package v2ch08.sourceAnnotations;
+
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

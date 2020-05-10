@@ -1,4 +1,5 @@
-package enums;
+package v1ch05.enums;
+
 
 import java.util.*;
 

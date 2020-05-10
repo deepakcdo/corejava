@@ -1,4 +1,5 @@
-package list;
+package v2ch10.list;
+
 
 import java.awt.*;
 import javax.swing.*;

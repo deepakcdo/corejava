@@ -1,4 +1,5 @@
-package desktopApp;
+package v2ch11.desktopApp;
+
 
 /*
 GBC - A convenience class to tame the GridBagLayout

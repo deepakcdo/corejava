@@ -1,4 +1,5 @@
-package reflection;
+package v1ch05.reflection;
+
 
 import java.util.*;
 import java.lang.reflect.*;

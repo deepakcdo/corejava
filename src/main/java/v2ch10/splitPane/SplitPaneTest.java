@@ -1,4 +1,5 @@
-package splitPane;
+package v2ch10.splitPane;
+
 
 import java.awt.*;
 import javax.swing.*;

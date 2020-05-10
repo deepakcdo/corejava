@@ -1,4 +1,5 @@
-package splashScreen;
+package v2ch11.splashScreen;
+
 
 import java.awt.*;
 import java.util.List;

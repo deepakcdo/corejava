@@ -1,4 +1,5 @@
-package memoryMap;
+package v2ch02.memoryMap;
+
 
 import java.io.*;
 import java.nio.*;

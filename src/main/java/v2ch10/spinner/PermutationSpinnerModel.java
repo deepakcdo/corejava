@@ -1,4 +1,5 @@
-package spinner;
+package v2ch10.spinner;
+
 
 import javax.swing.*;
 

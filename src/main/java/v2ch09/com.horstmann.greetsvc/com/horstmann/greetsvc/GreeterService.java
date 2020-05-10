@@ -1,4 +1,5 @@
-package com.horstmann.greetsvc;
+package v2ch09.com.horstmann.greetsvc.com.horstmann.greetsvc;
+
 
 import java.util.Locale;
 

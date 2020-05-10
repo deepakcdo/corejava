@@ -1,4 +1,5 @@
-package script;
+package v2ch08.script;
+
 
 import java.awt.*;
 import java.beans.*;

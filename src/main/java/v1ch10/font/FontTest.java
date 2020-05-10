@@ -1,4 +1,5 @@
-package font;
+package v1ch10.font;
+
 
 import java.awt.*;
 import java.awt.font.*;

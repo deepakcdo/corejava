@@ -1,4 +1,5 @@
-package textChange;
+package v2ch10.textChange;
+
 
 import java.awt.*;
 import javax.swing.*;

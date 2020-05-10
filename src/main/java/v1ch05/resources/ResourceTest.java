@@ -1,4 +1,5 @@
-package resources;
+package v1ch05.resources;
+
 
 import java.io.*;
 import java.net.*;

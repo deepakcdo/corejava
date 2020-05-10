@@ -1,4 +1,5 @@
-package retire;
+package v2ch07.retire;
+
 
 import java.awt.*;
 import java.awt.geom.*;

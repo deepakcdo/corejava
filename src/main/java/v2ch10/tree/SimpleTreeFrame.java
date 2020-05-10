@@ -1,4 +1,5 @@
-package tree;
+package v2ch10.tree;
+
 
 import javax.swing.*;
 import javax.swing.tree.*;

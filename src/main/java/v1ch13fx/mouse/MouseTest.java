@@ -1,4 +1,5 @@
-package mouse;
+package v1ch13fx.mouse;
+
 
 import javafx.application.*;
 import javafx.scene.*;

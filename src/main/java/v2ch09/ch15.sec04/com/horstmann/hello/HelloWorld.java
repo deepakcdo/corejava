@@ -1,4 +1,5 @@
-package com.horstmann.hello;
+package v2ch09.ch15.sec04.com.horstmann.hello;
+
 
 import javax.swing.JOptionPane;
 

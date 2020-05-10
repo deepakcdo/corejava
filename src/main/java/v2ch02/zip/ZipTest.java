@@ -1,4 +1,5 @@
-package zip;
+package v2ch02.zip;
+
 
 import java.io.*;
 import java.nio.charset.*;

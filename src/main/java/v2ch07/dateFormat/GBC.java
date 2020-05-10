@@ -1,4 +1,5 @@
-package dateFormat;
+package v2ch07.dateFormat;
+
 
 /*
 GBC - A convenience class to tame the GridBagLayout

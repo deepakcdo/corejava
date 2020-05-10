@@ -1,4 +1,5 @@
-package buttons3;
+package v2ch08.buttons3;
+
 
 import java.awt.*;
 import javax.swing.*;

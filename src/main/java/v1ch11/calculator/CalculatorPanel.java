@@ -1,4 +1,5 @@
-package calculator;
+package v1ch11.calculator;
+
 
 import java.awt.*;
 import java.awt.event.*;

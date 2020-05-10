@@ -1,4 +1,5 @@
-package equals;
+package v1ch05.equals;
+
 
 /**
  * This program demonstrates the equals method.

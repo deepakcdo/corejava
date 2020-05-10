@@ -1,4 +1,5 @@
-package treeEdit;
+package v2ch11.treeEdit;
+
 
 import java.awt.*;
 import javax.swing.*;

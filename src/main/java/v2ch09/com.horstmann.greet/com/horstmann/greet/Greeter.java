@@ -1,4 +1,5 @@
-package com.horstmann.greet;
+package v2ch09.com.horstmann.greet.com.horstmann.greet;
+
 
 public interface Greeter
 {

@@ -1,4 +1,5 @@
-package draw;
+package v1ch10.draw;
+
 
 import java.awt.*;
 import java.awt.geom.*;

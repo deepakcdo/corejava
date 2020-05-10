@@ -1,4 +1,5 @@
-package notHelloWorld;
+package v1ch10.notHelloWorld;
+
 
 import javax.swing.*;
 import java.awt.*;

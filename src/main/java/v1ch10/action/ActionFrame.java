@@ -1,4 +1,5 @@
-package action;
+package v1ch10.action;
+
 
 import java.awt.*;
 import java.awt.event.*;

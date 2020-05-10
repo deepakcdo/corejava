@@ -1,4 +1,5 @@
-package imageProcessing;
+package v2ch11.imageProcessing;
+
 
 import java.awt.*;
 import java.awt.geom.*;

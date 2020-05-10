@@ -1,4 +1,5 @@
-package draw;
+package v1ch10fx.draw;
+
 
 import javafx.application.*;
 import javafx.scene.*;

@@ -1,4 +1,5 @@
-package com.horstmann.places;
+package v2ch09.v2ch09.openpkg2.com.horstmann.places;
+
 
 /*
  

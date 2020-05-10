@@ -1,4 +1,5 @@
-package book;
+package v2ch11.book;
+
 
 import java.awt.*;
 import javax.swing.*;

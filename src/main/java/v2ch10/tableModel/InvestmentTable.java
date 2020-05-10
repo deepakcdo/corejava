@@ -1,4 +1,5 @@
-package tableModel;
+package v2ch10.tableModel;
+
 
 import java.awt.*;
 

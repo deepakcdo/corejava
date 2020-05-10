@@ -1,4 +1,5 @@
-package slider;
+package v1ch11.slider;
+
 
 import java.awt.*;
 import javax.swing.*;

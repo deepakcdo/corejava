@@ -1,4 +1,5 @@
-package map;
+package v1ch09.map;
+
 
 import java.util.*;
 

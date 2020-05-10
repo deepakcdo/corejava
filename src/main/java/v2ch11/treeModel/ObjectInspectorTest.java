@@ -1,4 +1,5 @@
-package treeModel;
+package v2ch11.treeModel;
+
 
 import java.awt.*;
 import javax.swing.*;

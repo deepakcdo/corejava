@@ -1,4 +1,5 @@
-package internalFrame;
+package v2ch10.internalFrame;
+
 
 import java.awt.*;
 import javax.swing.*;

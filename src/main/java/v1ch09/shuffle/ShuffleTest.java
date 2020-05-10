@@ -1,4 +1,5 @@
-package shuffle;
+package v1ch09.shuffle;
+
 
 import java.util.*;
 

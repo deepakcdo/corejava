@@ -1,4 +1,5 @@
-package stroke;
+package v2ch11.stroke;
+
 
 import java.awt.*;
 import java.awt.event.*;

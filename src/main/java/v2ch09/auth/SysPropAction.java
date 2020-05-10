@@ -1,4 +1,5 @@
-package auth;
+package v2ch09.auth;
+
 
 import java.security.*;
 

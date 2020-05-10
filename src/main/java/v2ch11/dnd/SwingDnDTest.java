@@ -1,4 +1,5 @@
-package dnd;
+package v2ch11.dnd;
+
 
 import java.awt.*;
 import javax.swing.*;

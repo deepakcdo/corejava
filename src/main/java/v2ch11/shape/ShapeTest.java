@@ -1,4 +1,5 @@
-package shape;
+package v2ch11.shape;
+
 
 import java.awt.*;
 import java.awt.event.*;

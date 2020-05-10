@@ -1,4 +1,5 @@
-package dateFormat;
+package v2ch07.dateFormat;
+
 
 import java.awt.*;
 import java.awt.event.*;
